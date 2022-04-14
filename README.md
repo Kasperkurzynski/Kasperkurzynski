@@ -1,16 +1,23 @@
-### Hi there 👋
+# About me
 
-<!--
-**Kasperkurzynski/Kasperkurzynski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## General info
+Hello, my name is Kasper Kurzyński and I am finishing Master Degree of Computer Science & Econometrics at University of Gdańsk and Computer Science at WSB in Gdańsk. 
+I also have a year of experience as a data analyst at Tenneco located in Gdańsk. I am statistics, R programming language, traveling and brazilian jiu jitsu lover.
 
-Here are some ideas to get you started:
+## Technologies
+I mostly work with:
+* R (for example: ggplot2, dplyr, tidyverse)
+* Python (for example: Pandas, NumPy, Matplotlib, Seaborn)
+* SQL -> MySQL
+* Tableau / QlikView
+* Excel / Google Sheets
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Courses & Certificates 
+I have completed several courses and obtained certificates
+
+```
+$ PCAP - Certified Associate in Python Programming
+$ Build Data Analysis tools using R and DPLYR
+$ Data Visualization with R and ggplot2
+$ R Programming A-Z™: R For Data Science With Real Exercises!
+```
