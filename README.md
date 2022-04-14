@@ -13,7 +13,7 @@ I mostly work with:
 * Excel / Google Sheets
 
 ## Courses & Certificates 
-I have completed several courses and obtained certificates
+I have completed several courses and obtained certificates:
 
 ```
 $ PCAP - Certified Associate in Python Programming
