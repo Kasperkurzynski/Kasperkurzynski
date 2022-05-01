@@ -16,6 +16,7 @@ I mostly work with:
 I have completed several courses and obtained certificates:
 
 ```
+$ Google Data Analytics Specialization
 $ PCAP - Certified Associate in Python Programming
 $ Build Data Analysis tools using R and DPLYR
 $ Data Visualization with R and ggplot2
