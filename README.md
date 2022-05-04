@@ -19,6 +19,7 @@ I have completed several courses and obtained certificates:
 $ Google Data Analytics Specialization
 $ PCAP - Certified Associate in Python Programming
 $ Build Data Analysis tools using R and DPLYR
+$ Application of Data Analysis in Business with R Programming
 $ Data Visualization with R and ggplot2
 $ R Programming A-Z™: R For Data Science With Real Exercises!
 ```
