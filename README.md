@@ -6,8 +6,8 @@ I also have a year of experience as a data analyst at Tenneco located in Gdańsk
 
 ## Technologies
 I mostly work with:
-* R (for example: ggplot2, dplyr, tidyverse)
-* Python (for example: Pandas, NumPy, Matplotlib, Seaborn)
+* R (for example: ggplot2, dplyr, tidyr, rpart, survival, mice)
+* Python (for example: Pandas, NumPy, Matplotlib, Seaborn, Plotly)
 * SQL -> MySQL
 * Tableau / QlikView
 * Excel / Google Sheets
