@@ -24,4 +24,5 @@ $ Application of Data Analysis in Business with R Programming
 $ R Programming: Advanced Analytics In R For Data Science
 $ Data Visualization with R and ggplot2
 $ R Programming A-Z™: R For Data Science With Real Exercises!
+$ SQL for Data Science
 ```
